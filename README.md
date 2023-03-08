@@ -1,5 +1,5 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# CSV Reader
+This is a small command-line utility written in Rust that allows you to read CSV files.
 
 ## References
 
